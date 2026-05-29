@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "presentationmod:block/presentation_screen", "y": 180 },
+    "facing=south": { "model": "presentationmod:block/presentation_screen" },
+    "facing=west": { "model": "presentationmod:block/presentation_screen", "y": 90 },
+    "facing=east": { "model": "presentationmod:block/presentation_screen", "y": 270 }
+  }
+}

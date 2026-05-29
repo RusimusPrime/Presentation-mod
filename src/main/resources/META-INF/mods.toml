@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="presentationmod"
+version="1.0.0"
+displayName="Presentation Mod"
+authors="TBankHackItOn"
+description='''
+Presentation system mod with screens, PDF/PPTX loading, and a remote controller.
+'''
+
+[[dependencies.presentationmod]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.presentationmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.presentationmod]]
+modId="kotlinforforge"
+mandatory=true
+versionRange="[4.0,)"
+ordering="AFTER"
+side="BOTH"
