@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "presentationmod",
+  "version": "2.0",
+  "name": "SlideCraft",
+  "description": "Presentation system mod with screens, PDF/PPTX loading, and a remote controller.",
+  "authors": [
+    "TBankHackItOn"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.presentationmod.PresentationMod"
+    ],
+    "client": [
+      "com.example.presentationmod.client.PresentationModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "fabric-language-kotlin": ">=1.10.18+kotlin.1.9.22",
+    "fabric-api": "*",
+    "minecraft": "1.19.2",
+    "java": ">=17"
+  }
+}

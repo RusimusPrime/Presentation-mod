@@ -1,0 +1,584 @@
+﻿{
+    "variants":  {
+                     "active=true,facing=north,part=single":  {
+                                                                  "model":  "presentationmod:block/presentation_screen",
+                                                                  "uvlock":  true,
+                                                                  "y":  180
+                                                              },
+                     "active=true,facing=north,part=middle":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_middle",
+                                                                  "uvlock":  true,
+                                                                  "y":  180
+                                                              },
+                     "active=true,facing=north,part=left":  {
+                                                                "model":  "presentationmod:block/presentation_screen_left",
+                                                                "uvlock":  true,
+                                                                "y":  180
+                                                            },
+                     "active=true,facing=north,part=right":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_right",
+                                                                 "uvlock":  true,
+                                                                 "y":  180
+                                                             },
+                     "active=true,facing=north,part=up":  {
+                                                              "model":  "presentationmod:block/presentation_screen_up",
+                                                              "uvlock":  true,
+                                                              "y":  180
+                                                          },
+                     "active=true,facing=north,part=down":  {
+                                                                "model":  "presentationmod:block/presentation_screen_down",
+                                                                "uvlock":  true,
+                                                                "y":  180
+                                                            },
+                     "active=true,facing=north,part=left_up":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                   "uvlock":  true,
+                                                                   "y":  180
+                                                               },
+                     "active=true,facing=north,part=left_down":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                     "uvlock":  true,
+                                                                     "y":  180
+                                                                 },
+                     "active=true,facing=north,part=right_up":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                    "uvlock":  true,
+                                                                    "y":  180
+                                                                },
+                     "active=true,facing=north,part=right_down":  {
+                                                                      "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                      "uvlock":  true,
+                                                                      "y":  180
+                                                                  },
+                     "active=true,facing=south,part=single":  {
+                                                                  "model":  "presentationmod:block/presentation_screen",
+                                                                  "uvlock":  true
+                                                              },
+                     "active=true,facing=south,part=middle":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_middle",
+                                                                  "uvlock":  true
+                                                              },
+                     "active=true,facing=south,part=left":  {
+                                                                "model":  "presentationmod:block/presentation_screen_left",
+                                                                "uvlock":  true
+                                                            },
+                     "active=true,facing=south,part=right":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_right",
+                                                                 "uvlock":  true
+                                                             },
+                     "active=true,facing=south,part=up":  {
+                                                              "model":  "presentationmod:block/presentation_screen_up",
+                                                              "uvlock":  true
+                                                          },
+                     "active=true,facing=south,part=down":  {
+                                                                "model":  "presentationmod:block/presentation_screen_down",
+                                                                "uvlock":  true
+                                                            },
+                     "active=true,facing=south,part=left_up":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                   "uvlock":  true
+                                                               },
+                     "active=true,facing=south,part=left_down":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                     "uvlock":  true
+                                                                 },
+                     "active=true,facing=south,part=right_up":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                    "uvlock":  true
+                                                                },
+                     "active=true,facing=south,part=right_down":  {
+                                                                      "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                      "uvlock":  true
+                                                                  },
+                     "active=true,facing=west,part=single":  {
+                                                                 "model":  "presentationmod:block/presentation_screen",
+                                                                 "uvlock":  true,
+                                                                 "y":  90
+                                                             },
+                     "active=true,facing=west,part=middle":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_middle",
+                                                                 "uvlock":  true,
+                                                                 "y":  90
+                                                             },
+                     "active=true,facing=west,part=left":  {
+                                                               "model":  "presentationmod:block/presentation_screen_left",
+                                                               "uvlock":  true,
+                                                               "y":  90
+                                                           },
+                     "active=true,facing=west,part=right":  {
+                                                                "model":  "presentationmod:block/presentation_screen_right",
+                                                                "uvlock":  true,
+                                                                "y":  90
+                                                            },
+                     "active=true,facing=west,part=up":  {
+                                                             "model":  "presentationmod:block/presentation_screen_up",
+                                                             "uvlock":  true,
+                                                             "y":  90
+                                                         },
+                     "active=true,facing=west,part=down":  {
+                                                               "model":  "presentationmod:block/presentation_screen_down",
+                                                               "uvlock":  true,
+                                                               "y":  90
+                                                           },
+                     "active=true,facing=west,part=left_up":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                  "uvlock":  true,
+                                                                  "y":  90
+                                                              },
+                     "active=true,facing=west,part=left_down":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                    "uvlock":  true,
+                                                                    "y":  90
+                                                                },
+                     "active=true,facing=west,part=right_up":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                   "uvlock":  true,
+                                                                   "y":  90
+                                                               },
+                     "active=true,facing=west,part=right_down":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                     "uvlock":  true,
+                                                                     "y":  90
+                                                                 },
+                     "active=true,facing=east,part=single":  {
+                                                                 "model":  "presentationmod:block/presentation_screen",
+                                                                 "uvlock":  true,
+                                                                 "y":  270
+                                                             },
+                     "active=true,facing=east,part=middle":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_middle",
+                                                                 "uvlock":  true,
+                                                                 "y":  270
+                                                             },
+                     "active=true,facing=east,part=left":  {
+                                                               "model":  "presentationmod:block/presentation_screen_left",
+                                                               "uvlock":  true,
+                                                               "y":  270
+                                                           },
+                     "active=true,facing=east,part=right":  {
+                                                                "model":  "presentationmod:block/presentation_screen_right",
+                                                                "uvlock":  true,
+                                                                "y":  270
+                                                            },
+                     "active=true,facing=east,part=up":  {
+                                                             "model":  "presentationmod:block/presentation_screen_up",
+                                                             "uvlock":  true,
+                                                             "y":  270
+                                                         },
+                     "active=true,facing=east,part=down":  {
+                                                               "model":  "presentationmod:block/presentation_screen_down",
+                                                               "uvlock":  true,
+                                                               "y":  270
+                                                           },
+                     "active=true,facing=east,part=left_up":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                  "uvlock":  true,
+                                                                  "y":  270
+                                                              },
+                     "active=true,facing=east,part=left_down":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                    "uvlock":  true,
+                                                                    "y":  270
+                                                                },
+                     "active=true,facing=east,part=right_up":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                   "uvlock":  true,
+                                                                   "y":  270
+                                                               },
+                     "active=true,facing=east,part=right_down":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                     "uvlock":  true,
+                                                                     "y":  270
+                                                                 },
+                     "active=true,facing=up,part=single":  {
+                                                               "model":  "presentationmod:block/presentation_screen",
+                                                               "uvlock":  true,
+                                                               "x":  270
+                                                           },
+                     "active=true,facing=up,part=middle":  {
+                                                               "model":  "presentationmod:block/presentation_screen_middle",
+                                                               "uvlock":  true,
+                                                               "x":  270
+                                                           },
+                     "active=true,facing=up,part=left":  {
+                                                             "model":  "presentationmod:block/presentation_screen_left",
+                                                             "uvlock":  true,
+                                                             "x":  270
+                                                         },
+                     "active=true,facing=up,part=right":  {
+                                                              "model":  "presentationmod:block/presentation_screen_right",
+                                                              "uvlock":  true,
+                                                              "x":  270
+                                                          },
+                     "active=true,facing=up,part=up":  {
+                                                           "model":  "presentationmod:block/presentation_screen_up",
+                                                           "uvlock":  true,
+                                                           "x":  270
+                                                       },
+                     "active=true,facing=up,part=down":  {
+                                                             "model":  "presentationmod:block/presentation_screen_down",
+                                                             "uvlock":  true,
+                                                             "x":  270
+                                                         },
+                     "active=true,facing=up,part=left_up":  {
+                                                                "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                "uvlock":  true,
+                                                                "x":  270
+                                                            },
+                     "active=true,facing=up,part=left_down":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                  "uvlock":  true,
+                                                                  "x":  270
+                                                              },
+                     "active=true,facing=up,part=right_up":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                 "uvlock":  true,
+                                                                 "x":  270
+                                                             },
+                     "active=true,facing=up,part=right_down":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                   "uvlock":  true,
+                                                                   "x":  270
+                                                               },
+                     "active=true,facing=down,part=single":  {
+                                                                 "model":  "presentationmod:block/presentation_screen",
+                                                                 "uvlock":  true,
+                                                                 "x":  90
+                                                             },
+                     "active=true,facing=down,part=middle":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_middle",
+                                                                 "uvlock":  true,
+                                                                 "x":  90
+                                                             },
+                     "active=true,facing=down,part=left":  {
+                                                               "model":  "presentationmod:block/presentation_screen_left",
+                                                               "uvlock":  true,
+                                                               "x":  90
+                                                           },
+                     "active=true,facing=down,part=right":  {
+                                                                "model":  "presentationmod:block/presentation_screen_right",
+                                                                "uvlock":  true,
+                                                                "x":  90
+                                                            },
+                     "active=true,facing=down,part=up":  {
+                                                             "model":  "presentationmod:block/presentation_screen_up",
+                                                             "uvlock":  true,
+                                                             "x":  90
+                                                         },
+                     "active=true,facing=down,part=down":  {
+                                                               "model":  "presentationmod:block/presentation_screen_down",
+                                                               "uvlock":  true,
+                                                               "x":  90
+                                                           },
+                     "active=true,facing=down,part=left_up":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                  "uvlock":  true,
+                                                                  "x":  90
+                                                              },
+                     "active=true,facing=down,part=left_down":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                    "uvlock":  true,
+                                                                    "x":  90
+                                                                },
+                     "active=true,facing=down,part=right_up":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                   "uvlock":  true,
+                                                                   "x":  90
+                                                               },
+                     "active=true,facing=down,part=right_down":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                     "uvlock":  true,
+                                                                     "x":  90
+                                                                 },
+                     "active=false,facing=north,part=single":  {
+                                                                   "model":  "presentationmod:block/presentation_screen",
+                                                                   "uvlock":  true,
+                                                                   "y":  180
+                                                               },
+                     "active=false,facing=north,part=middle":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_middle",
+                                                                   "uvlock":  true,
+                                                                   "y":  180
+                                                               },
+                     "active=false,facing=north,part=left":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_left",
+                                                                 "uvlock":  true,
+                                                                 "y":  180
+                                                             },
+                     "active=false,facing=north,part=right":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_right",
+                                                                  "uvlock":  true,
+                                                                  "y":  180
+                                                              },
+                     "active=false,facing=north,part=up":  {
+                                                               "model":  "presentationmod:block/presentation_screen_up",
+                                                               "uvlock":  true,
+                                                               "y":  180
+                                                           },
+                     "active=false,facing=north,part=down":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_down",
+                                                                 "uvlock":  true,
+                                                                 "y":  180
+                                                             },
+                     "active=false,facing=north,part=left_up":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                    "uvlock":  true,
+                                                                    "y":  180
+                                                                },
+                     "active=false,facing=north,part=left_down":  {
+                                                                      "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                      "uvlock":  true,
+                                                                      "y":  180
+                                                                  },
+                     "active=false,facing=north,part=right_up":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                     "uvlock":  true,
+                                                                     "y":  180
+                                                                 },
+                     "active=false,facing=north,part=right_down":  {
+                                                                       "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                       "uvlock":  true,
+                                                                       "y":  180
+                                                                   },
+                     "active=false,facing=south,part=single":  {
+                                                                   "model":  "presentationmod:block/presentation_screen",
+                                                                   "uvlock":  true
+                                                               },
+                     "active=false,facing=south,part=middle":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_middle",
+                                                                   "uvlock":  true
+                                                               },
+                     "active=false,facing=south,part=left":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_left",
+                                                                 "uvlock":  true
+                                                             },
+                     "active=false,facing=south,part=right":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_right",
+                                                                  "uvlock":  true
+                                                              },
+                     "active=false,facing=south,part=up":  {
+                                                               "model":  "presentationmod:block/presentation_screen_up",
+                                                               "uvlock":  true
+                                                           },
+                     "active=false,facing=south,part=down":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_down",
+                                                                 "uvlock":  true
+                                                             },
+                     "active=false,facing=south,part=left_up":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                    "uvlock":  true
+                                                                },
+                     "active=false,facing=south,part=left_down":  {
+                                                                      "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                      "uvlock":  true
+                                                                  },
+                     "active=false,facing=south,part=right_up":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                     "uvlock":  true
+                                                                 },
+                     "active=false,facing=south,part=right_down":  {
+                                                                       "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                       "uvlock":  true
+                                                                   },
+                     "active=false,facing=west,part=single":  {
+                                                                  "model":  "presentationmod:block/presentation_screen",
+                                                                  "uvlock":  true,
+                                                                  "y":  90
+                                                              },
+                     "active=false,facing=west,part=middle":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_middle",
+                                                                  "uvlock":  true,
+                                                                  "y":  90
+                                                              },
+                     "active=false,facing=west,part=left":  {
+                                                                "model":  "presentationmod:block/presentation_screen_left",
+                                                                "uvlock":  true,
+                                                                "y":  90
+                                                            },
+                     "active=false,facing=west,part=right":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_right",
+                                                                 "uvlock":  true,
+                                                                 "y":  90
+                                                             },
+                     "active=false,facing=west,part=up":  {
+                                                              "model":  "presentationmod:block/presentation_screen_up",
+                                                              "uvlock":  true,
+                                                              "y":  90
+                                                          },
+                     "active=false,facing=west,part=down":  {
+                                                                "model":  "presentationmod:block/presentation_screen_down",
+                                                                "uvlock":  true,
+                                                                "y":  90
+                                                            },
+                     "active=false,facing=west,part=left_up":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                   "uvlock":  true,
+                                                                   "y":  90
+                                                               },
+                     "active=false,facing=west,part=left_down":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                     "uvlock":  true,
+                                                                     "y":  90
+                                                                 },
+                     "active=false,facing=west,part=right_up":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                    "uvlock":  true,
+                                                                    "y":  90
+                                                                },
+                     "active=false,facing=west,part=right_down":  {
+                                                                      "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                      "uvlock":  true,
+                                                                      "y":  90
+                                                                  },
+                     "active=false,facing=east,part=single":  {
+                                                                  "model":  "presentationmod:block/presentation_screen",
+                                                                  "uvlock":  true,
+                                                                  "y":  270
+                                                              },
+                     "active=false,facing=east,part=middle":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_middle",
+                                                                  "uvlock":  true,
+                                                                  "y":  270
+                                                              },
+                     "active=false,facing=east,part=left":  {
+                                                                "model":  "presentationmod:block/presentation_screen_left",
+                                                                "uvlock":  true,
+                                                                "y":  270
+                                                            },
+                     "active=false,facing=east,part=right":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_right",
+                                                                 "uvlock":  true,
+                                                                 "y":  270
+                                                             },
+                     "active=false,facing=east,part=up":  {
+                                                              "model":  "presentationmod:block/presentation_screen_up",
+                                                              "uvlock":  true,
+                                                              "y":  270
+                                                          },
+                     "active=false,facing=east,part=down":  {
+                                                                "model":  "presentationmod:block/presentation_screen_down",
+                                                                "uvlock":  true,
+                                                                "y":  270
+                                                            },
+                     "active=false,facing=east,part=left_up":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                   "uvlock":  true,
+                                                                   "y":  270
+                                                               },
+                     "active=false,facing=east,part=left_down":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                     "uvlock":  true,
+                                                                     "y":  270
+                                                                 },
+                     "active=false,facing=east,part=right_up":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                    "uvlock":  true,
+                                                                    "y":  270
+                                                                },
+                     "active=false,facing=east,part=right_down":  {
+                                                                      "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                      "uvlock":  true,
+                                                                      "y":  270
+                                                                  },
+                     "active=false,facing=up,part=single":  {
+                                                                "model":  "presentationmod:block/presentation_screen",
+                                                                "uvlock":  true,
+                                                                "x":  270
+                                                            },
+                     "active=false,facing=up,part=middle":  {
+                                                                "model":  "presentationmod:block/presentation_screen_middle",
+                                                                "uvlock":  true,
+                                                                "x":  270
+                                                            },
+                     "active=false,facing=up,part=left":  {
+                                                              "model":  "presentationmod:block/presentation_screen_left",
+                                                              "uvlock":  true,
+                                                              "x":  270
+                                                          },
+                     "active=false,facing=up,part=right":  {
+                                                               "model":  "presentationmod:block/presentation_screen_right",
+                                                               "uvlock":  true,
+                                                               "x":  270
+                                                           },
+                     "active=false,facing=up,part=up":  {
+                                                            "model":  "presentationmod:block/presentation_screen_up",
+                                                            "uvlock":  true,
+                                                            "x":  270
+                                                        },
+                     "active=false,facing=up,part=down":  {
+                                                              "model":  "presentationmod:block/presentation_screen_down",
+                                                              "uvlock":  true,
+                                                              "x":  270
+                                                          },
+                     "active=false,facing=up,part=left_up":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                 "uvlock":  true,
+                                                                 "x":  270
+                                                             },
+                     "active=false,facing=up,part=left_down":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                   "uvlock":  true,
+                                                                   "x":  270
+                                                               },
+                     "active=false,facing=up,part=right_up":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                  "uvlock":  true,
+                                                                  "x":  270
+                                                              },
+                     "active=false,facing=up,part=right_down":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                    "uvlock":  true,
+                                                                    "x":  270
+                                                                },
+                     "active=false,facing=down,part=single":  {
+                                                                  "model":  "presentationmod:block/presentation_screen",
+                                                                  "uvlock":  true,
+                                                                  "x":  90
+                                                              },
+                     "active=false,facing=down,part=middle":  {
+                                                                  "model":  "presentationmod:block/presentation_screen_middle",
+                                                                  "uvlock":  true,
+                                                                  "x":  90
+                                                              },
+                     "active=false,facing=down,part=left":  {
+                                                                "model":  "presentationmod:block/presentation_screen_left",
+                                                                "uvlock":  true,
+                                                                "x":  90
+                                                            },
+                     "active=false,facing=down,part=right":  {
+                                                                 "model":  "presentationmod:block/presentation_screen_right",
+                                                                 "uvlock":  true,
+                                                                 "x":  90
+                                                             },
+                     "active=false,facing=down,part=up":  {
+                                                              "model":  "presentationmod:block/presentation_screen_up",
+                                                              "uvlock":  true,
+                                                              "x":  90
+                                                          },
+                     "active=false,facing=down,part=down":  {
+                                                                "model":  "presentationmod:block/presentation_screen_down",
+                                                                "uvlock":  true,
+                                                                "x":  90
+                                                            },
+                     "active=false,facing=down,part=left_up":  {
+                                                                   "model":  "presentationmod:block/presentation_screen_left_up",
+                                                                   "uvlock":  true,
+                                                                   "x":  90
+                                                               },
+                     "active=false,facing=down,part=left_down":  {
+                                                                     "model":  "presentationmod:block/presentation_screen_left_down",
+                                                                     "uvlock":  true,
+                                                                     "x":  90
+                                                                 },
+                     "active=false,facing=down,part=right_up":  {
+                                                                    "model":  "presentationmod:block/presentation_screen_right_up",
+                                                                    "uvlock":  true,
+                                                                    "x":  90
+                                                                },
+                     "active=false,facing=down,part=right_down":  {
+                                                                      "model":  "presentationmod:block/presentation_screen_right_down",
+                                                                      "uvlock":  true,
+                                                                      "x":  90
+                                                                  }
+                 }
+}
