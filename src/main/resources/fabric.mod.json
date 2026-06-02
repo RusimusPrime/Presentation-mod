@@ -3,7 +3,7 @@
   "id": "presentationmod",
   "version": "2.0",
   "name": "SlideCraft",
-  "description": "Presentation system mod with screens, PDF/PPTX loading, and a remote controller.",
+  "description": "Create and display presentations directly inside the Minecraft world with modular screens, file upload, and a remote controller.",
   "authors": [
     "TBankHackItOn"
   ],
